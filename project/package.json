@@ -1,0 +1,25 @@
+{
+  "name": "before-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-cached": "^1.1.0",
+    "gulp-coffee": "^2.3.2",
+    "gulp-jade": "^1.1.0",
+    "gulp-livescript": "^3.0.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-stylus": "^2.4.0",
+    "gulp-using": "^0.1.1",
+    "kouto-swiss": "^0.12.0",
+    "rimraf": "^2.5.2",
+    "run-sequence": "^1.2.1"
+  }
+}
